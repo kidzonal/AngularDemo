@@ -1,0 +1,2 @@
+https://stackoverflow.com/questions/38796541/how-to-add-font-awesome-to-angular-2-cli-project
+npm install font-awesome --save
